@@ -5,6 +5,7 @@ In this project, I apply the “Unit Testing” technique to collectively solve 
 Unit testing is a testing technique in which individual modules are tested to determine if there are any issues by the developer himself. It is concerned with functional correctness of the standalone modules.
 
 Unit tests are handy and have the potential to:
+
 •	Reduces defects in the newly developed features or reduces bugs when changing the existing functionality.
 
 •	Reduces cost and time of testing as defects are captured in very early phase.
