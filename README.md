@@ -6,8 +6,11 @@ Unit testing is a testing technique in which individual modules are tested to de
 
 Unit tests are handy and have the potential to:
 •	Reduces defects in the newly developed features or reduces bugs when changing the existing functionality.
+
 •	Reduces cost and time of testing as defects are captured in very early phase.
+
 •	Improves design and allows better refactoring of code.
+
 •	 when integrated with build gives the quality of the build as well.
 
 
